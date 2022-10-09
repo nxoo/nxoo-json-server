@@ -7,12 +7,12 @@
         {
           "id": 1,
           "choice": "Man United",
-          "votes": 3
+          "votes": 0
         },
         {
           "id": 2,
           "choice": "Arsenal",
-          "votes": 1
+          "votes": 0
         }
       ],
       "comments": []
@@ -23,38 +23,16 @@
         {
           "id": 1,
           "choice": "Real Madrid",
-          "votes": 2
+          "votes": 0
         },
         {
           "id": 2,
           "choice": "FC Barcelona",
-          "votes": 1
+          "votes": 0
         }
       ],
       "comments": [],
       "id": 2
-    },
-    {
-      "poll": "Chelsea vs Man City",
-      "choices": [
-        {
-          "id": 1,
-          "choice": "Man Blues",
-          "votes": 3
-        },
-        {
-          "id": 2,
-          "choice": "Man C",
-          "votes": 3
-        },
-        {
-          "id": 3,
-          "choice": "Tottenham",
-          "votes": 3
-        }
-      ],
-      "comments": [],
-      "id": 3
     }
   ]
 }
